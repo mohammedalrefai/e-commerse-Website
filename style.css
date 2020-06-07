@@ -1,0 +1,10 @@
+#headParagraph {
+  font-size: 42px;
+  color: red;
+  margin-left: 20px;
+  border: 1px solid black;
+}
+.container {
+  width: 80%;
+  float: center;
+}
